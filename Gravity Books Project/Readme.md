@@ -21,7 +21,8 @@
 - Pivot Table (Excel)
 - Power BI
 # ETL:
-Using[Maping Sheet](https://github.com/sohilamohey/Data-Warehouse/tree/main/Gravity%20Books%20Project/01.%20DWH%20Mapping) to extract each column from the database into data warehouse
+Using [Maping Sheet](https://github.com/sohilamohey/Data-Warehouse/tree/main/Gravity%20Books%20Project/01.%20DWH%20Mapping) to extract each column from the database into data warehouse by SSIS.
+
 ## SSIS
 In this phase, data is extracted from a transactional database called "Gravity Book Sales," transformed to meet data warehousing requirements, and loaded into a structured data warehouse.
 **Gravity Book Database**
