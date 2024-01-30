@@ -6,7 +6,7 @@
 - [ProjectPhases](#ProjectPhases)
 - [SSIS](#SSIS)
 - [SSAS](#SSAS)
-- [VisualizationPhase](#Visualization Phase)
+- [VisualizationPhase](#VisualizationPhase)
 
 
 ## Introduction
